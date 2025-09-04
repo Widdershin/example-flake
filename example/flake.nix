@@ -26,6 +26,9 @@
           packages = [
             # Add your development dependencies here
             pkgs.nodejs_24
+
+            # Search for new packages at https://search.nixos.org/packages
+            # Or with `nix search nixpkgs <package-name>`
           ];
         };
 
